@@ -13,7 +13,7 @@ A fast, scalable rate‑limiter service with multiple algorithms and a pluggable
 ## Quickstart
 
 ```bash
-cd /Users/eloelo/grinding/rate-limiter-service
+cd ~/grinding/rate-limiter-service
 go mod tidy
 go run ./cmd/server
 ```
